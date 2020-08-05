@@ -1,0 +1,16 @@
+26/05/2014 15:20:03><System>Database is connected.
+26/05/2014 15:20:05><System>Scan Id = 1
+26/05/2014 15:20:05><System>Total Comport = 2 
+26/05/2014 15:20:05><System>Initail MeterNo=Z-1101 IP11 Port=[192.168.11.193] .
+26/05/2014 15:20:05><System>Initail MeterNo=Z-1102 IP12 Port=[192.168.11.12] .
+26/05/2014 15:20:07><System>Database is connected.
+26/05/2014 15:20:07><System>Total Batch = 2
+26/05/2014 15:20:07><System>Initail Meter = Z-1101 ,Address= 11 .
+26/05/2014 15:20:07><System>Initail Meter = Z-1102 ,Address= 12 .
+26/05/2014 15:20:10><System>Stop All Process.
+26/05/2014 16:42:08><System>Database is connected.
+26/05/2014 16:42:09><System>Scan Id = 1
+26/05/2014 16:42:09><System>Total Comport = 2 
+26/05/2014 16:42:09><System>Initail MeterNo=Z-1101 IP11 Port=[192.168.11.193] .
+26/05/2014 16:42:09><System>Initail MeterNo=Z-1102 IP12 Port=[192.168.11.12] .
+26/05/2014 16:42:11><System>Stop All Process.
