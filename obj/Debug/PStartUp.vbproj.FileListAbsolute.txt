@@ -45,3 +45,21 @@ C:\Users\krits\Desktop\TAS TLB\PStartUp\PStartUp_2010\obj\Debug\WindowsApplicati
 C:\Users\krits\Desktop\TAS TLB\PStartUp\PStartUp_2010\obj\Debug\WindowsApplication1.frmTimeClose.resources
 C:\Users\krits\Desktop\TAS TLB\PStartUp\PStartUp_2010\obj\Debug\WindowsApplication1.Resources.resources
 C:\Users\krits\Desktop\TAS TLB\PStartUp\PStartUp_2010\obj\Debug\PStartUp.vbproj.GenerateResource.Cache
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\Debug\PStartUp.vbprojAssemblyReference.cache
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\Debug\WindowsApplication1.AboutBox1.resources
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\Debug\WindowsApplication1.frmMain.resources
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\Debug\WindowsApplication1.frmSetting.resources
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\Debug\WindowsApplication1.frmTimeClose.resources
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\Debug\WindowsApplication1.Resources.resources
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\Debug\PStartUp.vbproj.GenerateResource.cache
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\Debug\PStartUp.vbproj.CoreCompileInputs.cache
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\Debug\StartUpApplication.exe
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\Debug\StartUpApplication.xml
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\Debug\StartUpApplication.pdb
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\bin\Debug\startupMicroload.ico
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\bin\Debug\startupCR.ico
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\bin\Debug\StartUpApplication.exe.config
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\bin\Debug\StartUpApplication.exe
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\bin\Debug\StartUpApplication.pdb
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\bin\Debug\StartUpApplication.xml
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\bin\Debug\AppStartup.ini

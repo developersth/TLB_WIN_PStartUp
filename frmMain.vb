@@ -877,13 +877,7 @@ Nextt:
     ' flags for ShowWindow, for more see, http://msdn.microsoft.com/en-us/library/windows/desktop/ms633548%28v=vs.85%29.aspx
 
     Private Sub Button5_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button5.Click
-        'Form1 = Me.ParentForm()
 
-
-        Dim f As New Form1()
-
-        f.MdiParent = Me
-        f.Show()
     End Sub
 #End Region
 

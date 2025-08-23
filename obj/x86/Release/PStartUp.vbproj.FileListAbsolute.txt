@@ -43,3 +43,21 @@ C:\Users\krits\Desktop\TAS TLB\PStartUp\PStartUp_2010\obj\x86\Release\WindowsApp
 C:\Users\krits\Desktop\TAS TLB\PStartUp\PStartUp_2010\obj\x86\Release\WindowsApplication1.frmTimeClose.resources
 C:\Users\krits\Desktop\TAS TLB\PStartUp\PStartUp_2010\obj\x86\Release\WindowsApplication1.Resources.resources
 C:\Users\krits\Desktop\TAS TLB\PStartUp\PStartUp_2010\obj\x86\Release\PStartUp.vbproj.GenerateResource.Cache
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\bin\Release\AppStartup.ini
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\bin\Release\startupMicroload.ico
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\bin\Release\startupCR.ico
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\bin\Release\StartUpApplication.exe.config
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\bin\Release\StartUpApplication.exe
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\bin\Release\StartUpApplication.pdb
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\bin\Release\StartUpApplication.xml
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\x86\Release\PStartUp.vbprojAssemblyReference.cache
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\x86\Release\WindowsApplication1.AboutBox1.resources
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\x86\Release\WindowsApplication1.frmMain.resources
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\x86\Release\WindowsApplication1.frmSetting.resources
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\x86\Release\WindowsApplication1.frmTimeClose.resources
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\x86\Release\PStartUp.vbproj.GenerateResource.cache
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\x86\Release\PStartUp.vbproj.CoreCompileInputs.cache
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\x86\Release\StartUpApplication.exe
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\x86\Release\StartUpApplication.xml
+D:\My Project\TLB Project\SourceCode\TLB_WIN_PStartUp\obj\x86\Release\StartUpApplication.pdb
